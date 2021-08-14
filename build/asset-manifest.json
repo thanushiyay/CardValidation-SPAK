@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19fa51de.chunk.css",
+    "main.js": "/static/js/main.bba5b925.chunk.js",
+    "main.js.map": "/static/js/main.bba5b925.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f34ec94f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f34ec94f.js.map",
+    "static/css/2.f3d634d7.chunk.css": "/static/css/2.f3d634d7.chunk.css",
+    "static/js/2.cc7604a5.chunk.js": "/static/js/2.cc7604a5.chunk.js",
+    "static/js/2.cc7604a5.chunk.js.map": "/static/js/2.cc7604a5.chunk.js.map",
+    "static/js/3.faa01cb1.chunk.js": "/static/js/3.faa01cb1.chunk.js",
+    "static/js/3.faa01cb1.chunk.js.map": "/static/js/3.faa01cb1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.f3d634d7.chunk.css.map": "/static/css/2.f3d634d7.chunk.css.map",
+    "static/css/main.19fa51de.chunk.css.map": "/static/css/main.19fa51de.chunk.css.map",
+    "static/js/2.cc7604a5.chunk.js.LICENSE.txt": "/static/js/2.cc7604a5.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/static/media/mastercard.fdd172ae.png",
+    "static/media/chip.f88a902d.png": "/static/media/chip.f88a902d.png",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f34ec94f.js",
+    "static/css/2.f3d634d7.chunk.css",
+    "static/js/2.cc7604a5.chunk.js",
+    "static/css/main.19fa51de.chunk.css",
+    "static/js/main.bba5b925.chunk.js"
+  ]
+}
